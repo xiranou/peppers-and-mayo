@@ -1,0 +1,11 @@
+body {
+  background-color: red;
+}
+
+p {
+  text-align: center;
+  width: 100%;
+  font-size: 10em;
+  font-family: Helvatica;
+  margin: 0;
+}
